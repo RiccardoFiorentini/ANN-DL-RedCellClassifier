@@ -1,4 +1,4 @@
-# ANN-DL---RedCellClassifier
+# ANN&DL - RedCellClassifier
 
 **Team Members:**  
 - Alessandro Annechini
